@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Kalash004/Kalash004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Anton, a passionate individual with interest in everything computer-related.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Java, C#, Python, JavaScript
+- **Tools:** Blender (3D modeling)
+
+## Key Strengths
+
+- **Critical Thinking:** I thrive on solving complex problems and thinking outside the box.
+- **Creativity:** Whether it's writing code or creating 3D models, I enjoy expressing my creativity.
+- **Team Player:** I value collaboration and believe that great things happen when people work together.
+
+## Interests
+
+One of my main interests lies in the fascinating world of 3D modeling, and I love bringing ideas to life through Blender.
+
+## Get in Touch
+- [kalashnikov004@gmail.com](#) ✉️
+
+Feel free to connect with me on social media or drop me an email if you want to discuss anything related to technology, programming, or 3D modeling. Let's create something amazing together!
