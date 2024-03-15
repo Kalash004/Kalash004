@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Anton, a passionate individual with interest in everything computer-related.
+Hello there! 👋 I'm Anthony, a passionate individual with interest in everything computer-related.
 
 ## Skills
 
