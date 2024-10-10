@@ -4,8 +4,8 @@ Hello there! 👋 I'm Anthony, a passionate individual with interest in everythi
 
 ## Skills
 
-- **Programming Languages:** Java, C#, Python, JavaScript
-- **Tools:** Blender (3D modeling)
+- **Programming Languages:** Java, C#, Python, JavaScript, C
+- **Tools:** Blender (3D modeling), Substance Painter by Adobe
 
 ## Key Strengths
 
